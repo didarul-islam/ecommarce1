@@ -1,0 +1,107 @@
+@media only screen and (max-width:960px){
+    .top-nav-bar{
+        height: 118px !important;
+        border-bottom: 0px !important;
+        
+    }
+    .search-box{
+        width: 100% !important;
+    }
+    .menu-bar{
+        width: 100% !important;
+    }
+    .menu-bar ul{
+        width: 100% !important;
+        margin: 10px 0px !important;
+    }
+    .menu-bar ul{
+        height: 57px !important;
+        width: 100% !important;
+    }
+    #open-btn{
+        display: block !important;
+    }
+    #side-menu{
+        width: 34% !important;
+        z-index: 20 !important;
+        top: 133px !important;
+        font-size: 16px !important;
+        position: fixed !important;
+        display: none;
+    }
+    .side-menu ul li:hover ul{
+        margin-left: 32% !important;
+        
+       
+    }
+    .side-menu ul li ul{
+        top: 135px !important;
+        /* width: 48% !important; */
+       
+    }
+    .slider{
+        width: 100% !important;
+        margin-left: 0px !important;
+    }
+}
+
+@media only screen and (max-width:400px){
+    .top-nav-bar{
+        height: 118px !important;
+        border-bottom: 0px !important;
+        
+    }
+    .search-box{
+        width: 100% !important;
+        
+    }
+    .form-control{
+        width: 30% !important;
+        margin-left: 0px !important;
+    }
+    .menu-bar{
+        width: 100% !important;
+    }
+    .menu-bar ul{
+        width: 100% !important;
+        margin: 10px 0px !important;
+    }
+    .menu-bar ul{
+        height: 57px !important;
+        width: 100% !important;
+    }
+
+    .featured-catagory{
+        margin-top: 0px !important;
+
+    }
+    .featured-catagory img{
+        width: 95% !important;
+    }
+    .featured-catagory img:hover{
+        transform: scale(1.1) !important;
+    }
+    /* .side-menu{
+        width: 50% !important;
+        z-index: 20 !important;
+        top: 133px !important;
+        font-size: 16px !important;
+        
+    }
+    .side-menu ul li:hover ul{
+        margin-left: 47% !important;
+        
+       
+    }
+    .side-menu ul li ul{
+        top: 135px !important;
+        width: 52% !important;
+        
+        
+        
+       
+    }
+    .side-menu ul li ul li{
+        
+    } */
+}
